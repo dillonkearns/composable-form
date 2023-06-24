@@ -18,7 +18,7 @@ module Form.Base.RangeField exposing
 -}
 
 import Form.Base as Base
-import Form.Field exposing (Field)
+import Form.CField exposing (Field)
 
 
 {-| Represents a range field.

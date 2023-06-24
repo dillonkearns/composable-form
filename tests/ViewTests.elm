@@ -1,4 +1,4 @@
-module View exposing (optionalGroup)
+module ViewTests exposing (optionalGroup)
 
 import Expect exposing (Expectation)
 import Form exposing (Form)

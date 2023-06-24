@@ -65,8 +65,8 @@ import `Form.Base` every time we needed to use those operations with our brand n
 
 -}
 
+import Form.CField exposing (Field)
 import Form.Error as Error exposing (Error)
-import Form.Field exposing (Field)
 
 
 {-| A [`Form`](Form#Form) that can contain any type of `field`.

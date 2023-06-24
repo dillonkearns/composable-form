@@ -42,7 +42,7 @@ custom view code. Take a look at [the source code of this module][source] for in
 
 -}
 
-import Form exposing (Form)
+import CForm as Form exposing (Form)
 import Form.Base.CheckboxField as CheckboxField
 import Form.Base.NumberField as NumberField
 import Form.Base.RadioField as RadioField

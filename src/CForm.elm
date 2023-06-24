@@ -1,4 +1,4 @@
-module Form exposing
+module CForm exposing
     ( Form
     , textField, emailField, passwordField, textareaField, numberField, rangeField, checkboxField
     , radioField, selectField
@@ -56,8 +56,8 @@ import Form.Base.RadioField as RadioField exposing (RadioField)
 import Form.Base.RangeField as RangeField exposing (RangeField)
 import Form.Base.SelectField as SelectField exposing (SelectField)
 import Form.Base.TextField as TextField exposing (TextField)
+import Form.CField as Field
 import Form.Error exposing (Error)
-import Form.Field as Field
 
 
 

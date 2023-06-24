@@ -18,7 +18,7 @@ module Form.Base.TextField exposing
 -}
 
 import Form.Base as Base
-import Form.Field exposing (Field)
+import Form.CField exposing (Field)
 
 
 {-| Represents a text field.

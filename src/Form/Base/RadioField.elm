@@ -18,7 +18,7 @@ module Form.Base.RadioField exposing
 -}
 
 import Form.Base as Form exposing (Form)
-import Form.Field exposing (Field)
+import Form.CField exposing (Field)
 
 
 {-| Represents a radio field.

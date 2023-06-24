@@ -1,4 +1,4 @@
-module Form.Field exposing (Field, mapValues)
+module Form.CField exposing (Field, mapValues)
 
 {-| This module contains a type that represents a generic form field.
 
